@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipsitaroutray
-- 👀 I’m interested in real wordl
-- 🌱 I’m currently learning to Automate the stuff
+- 👀 I’m interested in real world
+- 🌱 I’m currently learning to Web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
